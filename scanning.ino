@@ -3,14 +3,14 @@
 /*REQUIREMENT*/
 
 /*
-  LAPTOP/PC
-  ARDUINO IDE LATEST
-  NODEMCU AMICA LUA WIFI ESP12 CP2102 | atau model lain
-  WiFi Antenna Antena 2.4Ghz 3DBi for ESP32 ESP8266 (OPSIONAL)
-  KABEL USB TO MINI USB
-  PORT USB
-  BOARD MANAGER for ESP32 by espressif system
-  Serial Monitor 115200
+  LAPTOP/PC.
+  ARDUINO IDE LATEST.
+  NODEMCU AMICA LUA WIFI ESP12 CP2102 | atau model lain.
+  WiFi Antenna Antena 2.4Ghz 3DBi for ESP32 ESP8266 (OPSIONAL).
+  KABEL USB TO MINI USB.
+  PORT USB.
+  BOARD MANAGER for ESP32 by espressif system.
+  Serial Monitor 115200.
 */
 
 /*
