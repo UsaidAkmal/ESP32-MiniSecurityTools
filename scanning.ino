@@ -1,7 +1,31 @@
 /*saya menajalankan kode ini menggunakan Arduino IDE dengan menggunakan bahasa pemrograman c++*/
 
 /*REQUIREMENT*/
-/**/
+
+/*
+  LAPTOP/PC
+  ARDUINO IDE LATEST
+  NODEMCU AMICA LUA WIFI ESP12 CP2102 | atau model lain
+  WiFi Antenna Antena 2.4Ghz 3DBi for ESP32 ESP8266 (OPSIONAL)
+  KABEL USB TO MINI USB
+  PORT USB
+  BOARD MANAGER for ESP32 by espressif system
+  Serial Monitor 115200
+*/
+
+/*
+1. Instal Arduino IDE dan pastikan Anda menambahkan dukungan board ESP32
+
+2. Sambungkan ESP32 Anda ke komputer
+
+3. Pilih board ESP32 yang sesuai dari menu Tools > Board
+
+4. Salin kode di bawah ke Arduino IDE
+
+5. Kompile lalu Upload kode ke ESP32
+
+6. Buka Serial Monitor (baud rate 115200) untuk melihat hasil pemindaian
+*/ 
 
 #include "WiFi.h"
 
